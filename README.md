@@ -1,3 +1,5 @@
+<h1 align='center'>👾 Olá, eu sou o Gustavo Araújo 👾</h1>
+
 <a href="https://github.com/guharaujo"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guharaujo&theme=tokyonight&hide_border=true)" alt="gustavoaraujo's github stats" /></a>
 | ------------- |
     
