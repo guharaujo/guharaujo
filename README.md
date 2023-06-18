@@ -6,3 +6,4 @@
  ## ✉️ Contato
   
 <a href='https://www.linkedin.com/in/gustavo-araujo-monteiro/' target='_blank' ><img align='center' alt='gustavoaraujo-Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+<a href = "mailto:samuelpanzera@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
