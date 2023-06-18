@@ -1,5 +1,5 @@
 <h1 align='center'>👾 Olá, eu sou o Gustavo Araújo 👾</h1>
- ## ✉️ Contato
+## ✉️ Contato 
 <a href='https://www.linkedin.com/in/gustavo-araujo-monteiro/' target='_blank' ><img align='center' alt='gustavoaraujo-Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 <a href = "mailto:araujogustavo2015@gmail.com"><img target='_blank' ><img align='center' alt='gustavoaraujo-Gmail' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
